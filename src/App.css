@@ -1,0 +1,25 @@
+.box{
+  width: 400px;
+  height: 500px;
+  text-align: center;
+  border-radius: 24px;
+}
+.box-img{
+  width: 350px;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+.tie{
+  border: 5px solid black;
+}
+.win{
+  border: 5px solid green;
+}
+.lose{
+  border: 5px solid red;
+}
