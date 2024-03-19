@@ -1,3 +1,5 @@
+![image](https://github.com/HSLE24/rock-class-project/assets/4832903/49bb3fae-7a2e-46e3-889d-2ef12949eda7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
